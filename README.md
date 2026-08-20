@@ -84,21 +84,6 @@ target_use_case: "Autonomous agents with access to sensitive tools, APIs, or inf
 
 <br>
 
-## `> screenshots`
-
-<div align="center">
-
-| Dashboard | Incident Queue |
-|---|---|
-| <img src="./docs/screenshots/dashboard.png" width="100%"> | <img src="./docs/screenshots/incident_queue.png" width="100%"> |
-
-| Live Logs | Swagger UI |
-|---|---|
-| <img src="./docs/screenshots/live_logs.png" width="100%"> | <img src="./docs/screenshots/swagger.png" width="100%"> |
-
-</div>
-
-<br>
 
 ## `> quickstart`
 
